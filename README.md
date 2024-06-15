@@ -1,4 +1,4 @@
-# <a href="https://paridhi3-invoice-extractor-app-wzhogk.streamlit.app/" style="text-decoration: underline;">Multi-Language Invoice Extractor</a>
+# [Multi-Language Invoice Extractor](https://paridhi3-invoice-extractor-app-wzhogk.streamlit.app/)
 
 The Multi-Language Invoice Extractor is a web application designed to extract information from invoice images. It utilizes the power of Google Gemini Pro Vision to analyze and understand invoices, providing answers to questions related to the content of the invoice.
 
