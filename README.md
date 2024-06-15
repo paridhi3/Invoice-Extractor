@@ -1,6 +1,6 @@
-# Multi-Language Invoice Extractor
+# Multi - Language Invoice Extractor
 
-The Invoice Extractor is a web application designed to extract information from invoice images. It utilizes the power of Google Gemini Pro Vision to analyze and understand invoices, providing answers to questions related to the content of the invoice.
+The Multi - Language Invoice Extractor is a web application designed to extract information from invoice images. It utilizes the power of Google Gemini Pro Vision to analyze and understand invoices, providing answers to questions related to the content of the invoice.
 
 ## Features
 
